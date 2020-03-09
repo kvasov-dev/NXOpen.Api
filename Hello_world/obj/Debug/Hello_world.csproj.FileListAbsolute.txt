@@ -1,0 +1,15 @@
+D:\LabNX\Hello_world\Hello_world\bin\Debug\Hello_world.dll
+D:\LabNX\Hello_world\Hello_world\bin\Debug\Hello_world.pdb
+D:\LabNX\Hello_world\Hello_world\bin\Debug\MiniSnap.dll
+D:\LabNX\Hello_world\Hello_world\bin\Debug\NXOpen.dll
+D:\LabNX\Hello_world\Hello_world\bin\Debug\NXOpen.UF.dll
+D:\LabNX\Hello_world\Hello_world\bin\Debug\NXOpen.Utilities.dll
+D:\LabNX\Hello_world\Hello_world\bin\Debug\NXOpenUI.dll
+D:\LabNX\Hello_world\Hello_world\bin\Debug\MiniSnap.xml
+D:\LabNX\Hello_world\Hello_world\bin\Debug\NXOpen.xml
+D:\LabNX\Hello_world\Hello_world\bin\Debug\NXOpen.Utilities.xml
+D:\LabNX\Hello_world\Hello_world\bin\Debug\NXOpenUI.xml
+D:\LabNX\Hello_world\Hello_world\obj\Debug\Hello_world.csprojAssemblyReference.cache
+D:\LabNX\Hello_world\Hello_world\obj\Debug\Hello_world.csproj.CopyComplete
+D:\LabNX\Hello_world\Hello_world\obj\Debug\Hello_world.dll
+D:\LabNX\Hello_world\Hello_world\obj\Debug\Hello_world.pdb
